@@ -1,4 +1,7 @@
 # Implement a Sudoku Solver From Scratch
+## Aim
+ To implement a Sudoku solver using the backtracking algorithm to find the solution for the given Sudoku puzzle.
+ 
 ## Steps to solve the Sudoku Puzzle in Python
 <ol>
   <li>In this method for solving the sudoku puzzle, first, we assign the size of the 2D matrix to a variable M (M*M).</li>
